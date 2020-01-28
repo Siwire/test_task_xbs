@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  background-color: #222222;
+  padding: 30px;
+  width: '100%';
+}
+
+.main_list {
+  margin: 0;
+}
+
+.main_list li {
+    list-style-type: none;
+}
